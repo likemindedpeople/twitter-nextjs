@@ -4,7 +4,7 @@ export default {
   type: 'document',
   fields: [
     {
-      name: 'tweet',
+      name: 'text',
       title: 'Text in Tweet',
       type: 'string',
     },
@@ -30,4 +30,4 @@ export default {
       type: 'string',
     },
   ],
-};
+}
